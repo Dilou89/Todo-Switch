@@ -12,12 +12,4 @@
     "jquery": "^3.1.1",
     "semantic-ui-css": "^2.2.4"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/SimplonSt-Gaudens/Todo-Switch.git"
-  },
-  "bugs": {
-    "url": "https://github.com/SimplonSt-Gaudens/Todo-Switch/issues"
-  },
-  "homepage": "https://github.com/SimplonSt-Gaudens/Todo-Switch#readme"
 }
